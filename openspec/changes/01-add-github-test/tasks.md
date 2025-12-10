@@ -8,6 +8,6 @@
 - [x] 2.3 Push initial code to GitHub
 
 ## 3. Validate Workflow Scripts
-- [/] 3.1 Test `dev/startup.sh` script
-- [/] 3.2 Test `dev/ending.sh` script
-- [ ] 3.3 Verify HANDOVER.md is created correctly
+- [x] 3.1 Test `dev/startup.sh` script
+- [x] 3.2 Test `dev/ending.sh` script
+- [x] 3.3 Verify HANDOVER.md is created correctly
